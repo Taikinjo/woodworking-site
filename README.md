@@ -1,16 +1,16 @@
-## Deploy (free)
+# Dad’s Woodworks — Personal Project
 
-- **GitHub Pages:** push the folder to a repo, enable Pages → deploy from main branch (root).
-- **Netlify / Vercel:** drag–drop the folder onto their dashboard, or connect your repo.
+This is a small web project I built for my dad’s woodworking business.  
+It’s a simple, static website designed to showcase his handmade furniture and custom woodcrafts.
 
-## Custom Domain
+The site includes:
+- A clean **home page** introducing his work  
+- A **project gallery** with multiple photos and descriptions for each piece  
+- An **about page** sharing his background and workshop story  
+- A **contact page** for inquiries and commissions  
 
-Buy a domain (e.g., Namecheap), then point DNS to your hosting provider’s instructions.
+I created this project using basic **HTML, CSS, and JavaScript** — no frameworks or CMS.  
+It was a great learning experience in designing, structuring, and deploying a static website from scratch.
 
-## Contact Form (later)
-
-Hook up to Formspree or Netlify Forms, or replace the form with a `mailto:` link.
-
-## License
-
-MIT — keep or remove the footer credit as you like.
+### 💡 Notes
+This site is lightweight and runs entirely in the browser.  
