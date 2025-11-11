@@ -5,7 +5,7 @@ window.PROJECTS = [
     year: 2025,
     size: "size",
     wood: "wood type",
-    finish: "finish",
+    price: "Price Negotiable",
     images: [
       "assets/book_table_gray.jpg",
       "assets/book_table.jpg"
@@ -18,7 +18,7 @@ window.PROJECTS = [
     year: 2025,
     size: "Size",
     wood: "wood type",
-    finish: "finish",
+    price: "Price Negotiable",
     images: [
       "assets/Bench.jpg",
       "assets/chair_white.jpg",
@@ -32,7 +32,7 @@ window.PROJECTS = [
     year: 2025,
     size: "Size",
     wood: "wood type",
-    finish: "finish",
+    price: "Price Negotiable",
     images: [
       "assets/cross.jpg",
       "assets/key_holder.jpg",
